@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ashrayaKoirala
-- 👀 I’m interested in games, anime and programming i guess????
-- 🌱 I’m currently learning CSS.
-- 💞️ No collab, I Learning.
-- 📫 No talk becoz No Collab....
+i like reading finance and Ml is fun but bloomberg is too expensive
 
 <!---
 ashrayaKoirala/ashrayaKoirala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
